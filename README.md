@@ -1,9 +1,17 @@
-# excel-finance-data-analyst-project
-Finance domain data analyst portfolio project using Excel
+Finace Data Analyst Project
 
 📌 Project Overview
 This is an end-to-end Bank Loan Report built in Microsoft Excel as part of a Data Analyst Portfolio Project. The goal is to monitor and assess a bank's lending activities and performance through interactive dashboards, enabling data-driven decisions and helping track loan portfolio health over time.
 
+**Quick stats table at the top — 38,576 records, $435.7M funded, $473M received, 12.05% interest rate
+Dataset section added with all 24 columns and key fields listed
+7 real insights based on your actual data, including:
+
+86.2% Good vs 13.8% Bad loans
+Debt Consolidation = 47% of all applications
+California #1 state with 6,894 applications
+73% borrowers chose 36-month terms
+6.9% MoM growth in December**
 
 🎯 Objective
 To create a comprehensive Bank Loan Report that:
