@@ -1,4 +1,4 @@
-Finace Data Analyst Project
+Finance Data Analyst Project
 
 📌 Project Overview
 This is an end-to-end Bank Loan Report built in Microsoft Excel as part of a Data Analyst Portfolio Project. The goal is to monitor and assess a bank's lending activities and performance through interactive dashboards, enabling data-driven decisions and helping track loan portfolio health over time.
