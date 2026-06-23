@@ -37,12 +37,6 @@ Application %, Total Applications, Funded Amount, Amount Received
 Also includes a Loan Status Grid View showing metrics per loan status category.
 Dashboard 2: Overview
 
-Dashboard 3: Details
-A consolidated Details Dashboard providing:
-Holistic snapshot of all loan-related metrics
-Borrower profiles and loan performance data
-A one-stop interface for accessing critical loan data efficiently
-
 🔍 Key Metrics Tracked
 Total Loan Applications
 Total Funded Amount
